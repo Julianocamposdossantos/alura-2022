@@ -140,12 +140,6 @@ html {
 }
 
 @media screen and (max-width: 600px) {
-	html {
-		background-size: cover;
-		background-repeat: no-repeat;
-		height: auto; 
-	}
-
 	.conteudo {
 		justify-content: center;
 		flex-direction: column;
